@@ -3,6 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="f00d9231-f074-4971-9758-9d29f7b0b4eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_ascii.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_ascii.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_fileutils.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_fileutils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_slices.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/is105-ica02/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/is105-ica02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/ascii_main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/iso.go" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/is105-ica02/iso.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/iso/iso.go" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/is105-ica02/iso/iso.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/iso/iso_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/is105-ica02/iso/iso_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/iso_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/is105-ica02/iso_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/main_fileutils.go" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/is105-ica02/main_fileutils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/is105-ica02/slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/slice/slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/is105-ica02/slice/slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/is105-ica02/slices_main.go" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +30,47 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_slices.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="85">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_fileutils.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_ascii.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_treasure.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/slice/slice.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -37,6 +90,9 @@
         <option value="$PROJECT_DIR$/iso/iso.go" />
         <option value="$PROJECT_DIR$/iso/iso_test.go" />
         <option value="$PROJECT_DIR$/main_slices.go" />
+        <option value="$PROJECT_DIR$/main_treasure.go" />
+        <option value="$PROJECT_DIR$/main_fileutils.go" />
+        <option value="$PROJECT_DIR$/main_ascii.go" />
       </list>
     </option>
   </component>
@@ -57,6 +113,11 @@
             <path>
               <item name="is105-ica02" type="b2602c69:ProjectViewProjectNode" />
               <item name="is105-ica02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="is105-ica02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="is105-ica02" type="462c0819:PsiDirectoryNode" />
+              <item name="slice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -89,7 +150,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build main_slices.go">
+    <configuration name="go build main_ascii.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="is105-ica02" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main_ascii.go" />
+      <package value="github.com/Henrikohlsen/Is-105/is105-ica02" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main_slices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="is105-ica02" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -99,9 +169,25 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main_treasure.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="is105-ica02" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main_treasure.go" />
+      <package value="github.com/Henrikohlsen/Is-105/is105-ica02" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main_slices.go" />
+      <item itemvalue="Go Build.go build main_ascii.go" />
+      <item itemvalue="Go Build.go build main_treasure.go" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build main_slices.go" />
+        <item itemvalue="Go Build.go build main_treasure.go" />
+        <item itemvalue="Go Build.go build main_ascii.go" />
       </list>
     </recent_temporary>
   </component>
@@ -116,17 +202,17 @@
       <option name="presentableId" value="Default" />
       <updated>1553087737421</updated>
       <workItem from="1553087740533" duration="620000" />
-      <workItem from="1553089958316" duration="95000" />
+      <workItem from="1553089958316" duration="681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="715000" />
+    <option name="totallyTimeSpent" value="1301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20375335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20375335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -134,15 +220,15 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.04526167" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30551627" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -202,13 +288,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main_treasure.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slice/slice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_ascii.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main_fileutils.go">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main_slices.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
